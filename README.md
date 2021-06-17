@@ -14,4 +14,4 @@ blogs is not deployed and has to run on a development server local to your compu
 ![alt text](/images/loginendpoint.png)
 ![alt text](/images/newpost_endpoint.png)
 ![alt text](/images/deletepost_endpoint.png)
-![alt text](/images/allposts2endpoint.png)
+![alt text](/images/allposts2.png)
