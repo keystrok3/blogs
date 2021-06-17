@@ -1,0 +1,11 @@
+include/
+*.cfg
+lib/
+lib64/
+bin/
+app/api/__pycache__/users.cpython-35.pyc
+app/api/__pycache__/__init__.cpython-35.pyc
+app/__pycache__/__init__.cpython-35.pyc
+app/__pycache__/models.cpython-35.pyc
+__pycache__/config.cpython-35.pyc
+test.rest
