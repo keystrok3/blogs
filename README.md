@@ -9,3 +9,9 @@ blogs is not deployed and has to run on a development server local to your compu
 ## Setup
 1. cd blogs
 2. python manager.py runserver
+
+## Postman screenshots
+![alt text](/images/loginendpoint.png)
+![alt text](/images/newpost_endpoint.png)
+![alt text](/images/deletepost_endpoint.png)
+![alt text](/images/allposts2endpoint.png)
